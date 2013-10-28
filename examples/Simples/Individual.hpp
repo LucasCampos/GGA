@@ -47,7 +47,7 @@ struct BasicIndividual {
 			const double mn = std::min(bi.fitness, fitness);
 			const double mx = std::max(bi.fitness, fitness);
 
-			const BasicIndividual chlA = BasicIndividual(mn+uni*mx);
+			const BasicIndividual chlA = BasicIndividual(mx+uni*mn);
 			const BasicIndividual chlB = BasicIndividual(mn-uni*mx);
 
 			const std::array<BasicIndividual,4> arr = {chlA,chlB,(*this),bi};
