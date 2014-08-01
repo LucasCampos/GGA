@@ -1,0 +1,158 @@
+{
+   "destination_addresses" : [
+      "Cais da Alfândega, 130 - Recife, Recife - PE, 50030-100, República Federativa do Brasil",
+      "Rua da Aurora, 528-620 - Boa Vista, Recife - PE, República Federativa do Brasil",
+      "Rua da Aurora, 425 - Boa Vista, Recife - PE, República Federativa do Brasil",
+      "Avenida Capibaribe-Rio, 1-147, Recife - PE, República Federativa do Brasil",
+      "Avenida Dantas Barreto, 55-239 - São José, Recife - PE, República Federativa do Brasil",
+      "Avenida Dantas Barreto, 1774-1878 - São José, Recife - PE, República Federativa do Brasil",
+      "Rua Domingos José Martins, 9 - Recife, Recife - PE, 50030-200, República Federativa do Brasil",
+      "Rua da Moeda, 92-166 - Recife, Recife - PE, 50030-040, República Federativa do Brasil",
+      "Ponte Maurício de Nassau, 308-524, Recife - PE, República Federativa do Brasil",
+      "Rua Felipe Camarão, 2-154 - São José, Recife - PE, 50020-250, República Federativa do Brasil",
+      "Travessa do Cais da Detenção, 142-208 - São José, Recife - PE, 50020-090, República Federativa do Brasil",
+      "Rua Velha, 181 - Boa Vista, Recife - PE, 50060-210, República Federativa do Brasil"
+   ],
+   "origin_addresses" : [
+      "Cais da Alfândega, 130 - Recife, Recife - PE, 50030-100, República Federativa do Brasil"
+   ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,8 km",
+                  "value" : 1783
+               },
+               "duration" : {
+                  "text" : "4 minutos",
+                  "value" : 217
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2,0 km",
+                  "value" : 1961
+               },
+               "duration" : {
+                  "text" : "5 minutos",
+                  "value" : 273
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,6 km",
+                  "value" : 1560
+               },
+               "duration" : {
+                  "text" : "4 minutos",
+                  "value" : 217
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,9 km",
+                  "value" : 1885
+               },
+               "duration" : {
+                  "text" : "4 minutos",
+                  "value" : 230
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,5 km",
+                  "value" : 1479
+               },
+               "duration" : {
+                  "text" : "3 minutos",
+                  "value" : 207
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0,9 km",
+                  "value" : 876
+               },
+               "duration" : {
+                  "text" : "3 minutos",
+                  "value" : 175
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,0 km",
+                  "value" : 975
+               },
+               "duration" : {
+                  "text" : "3 minutos",
+                  "value" : 161
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,0 km",
+                  "value" : 994
+               },
+               "duration" : {
+                  "text" : "3 minutos",
+                  "value" : 154
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,2 km",
+                  "value" : 1229
+               },
+               "duration" : {
+                  "text" : "3 minutos",
+                  "value" : 195
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2,0 km",
+                  "value" : 2021
+               },
+               "duration" : {
+                  "text" : "4 minutos",
+                  "value" : 236
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2,5 km",
+                  "value" : 2510
+               },
+               "duration" : {
+                  "text" : "5 minutos",
+                  "value" : 297
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
